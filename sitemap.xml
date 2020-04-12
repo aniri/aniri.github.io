@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aniri.ro/</loc>
+    <loc>https://aniri.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://aniri.ro/authors/</loc>
+    <loc>https://aniri.github.io/authors/</loc>
   </url>
   
   <url>
-    <loc>https://aniri.ro/categories/</loc>
+    <loc>https://aniri.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://aniri.ro/series/</loc>
+    <loc>https://aniri.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>https://aniri.ro/tags/</loc>
+    <loc>https://aniri.github.io/tags/</loc>
   </url>
   
 </urlset>
