@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Irina Borozan</title>
-    <link>https://aniri.github.io/authors/</link>
+    <link>https://aniri.ro/authors/</link>
     <description>Recent content in Authors on Irina Borozan</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://aniri.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aniri.ro/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
